@@ -1,7 +1,28 @@
-button {
-  color: white;
-  background-color: grey;
+.btn {
   font-size: 40px;
   padding: 1em;
   border-radius: 6%;
+  border: 2px solid #ddd;
+}
+.btn-default {
+  color: black;
+  background-color: white;
+}
+
+.btn-primary {
+  background-color: #337AB7;
+  border-color: #265b89
+}
+.btn-box {
+  border: none;
+  border-radius: 0;
+}
+
+.btn-link {
+  color: #337AB7;
+  background-color: white;
+  border: none;
+}
+.btn-link:hover {
+  text-decoration: underline;
 }
