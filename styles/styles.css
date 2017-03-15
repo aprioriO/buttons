@@ -1,7 +1,7 @@
 .btn {
   font-size: 40px;
   padding: 1em;
-  border-radius: 6%;
+  border-radius: 10px;
   border: 2px solid #ddd;
   cursor: pointer;
   display: inline-block;
