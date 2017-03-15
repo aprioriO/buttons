@@ -20,7 +20,7 @@
 
 .btn-link {
   color: #337AB7;
-  background-color: white;
+  background-color: transparent;
   border: none;
 }
 .btn-link:hover {
