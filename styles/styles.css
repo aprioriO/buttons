@@ -3,6 +3,12 @@
   padding: 1em;
   border-radius: 6%;
   border: 2px solid #ddd;
+  cursor: pointer;
+  display: inline-block;
+}
+a.btn {
+  text-decoration: none;
+  color: inherit;
 }
 
 .btn-default {
